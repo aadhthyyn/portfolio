@@ -1,0 +1,118 @@
+.about {
+  min-height: 100vh;
+  padding: 100px 10%;
+}
+
+.about h1 {
+  text-align: center;
+  color: #c85ce8;
+  margin-bottom: 50px;
+}
+.home {
+  height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color: #0d1019;
+}
+
+.home h1 {
+  font-size: 55px;
+  margin-bottom: 15px;
+  color: white;
+}
+
+.home h1 span {
+  color: #c85ce8;
+}
+
+.home h2 {
+  color: #aaa;
+  margin-bottom: 15px;
+}
+
+.home p {
+  color: #aaa;
+  max-width: 600px;
+  line-height: 1.5;
+}
+
+.buttons {
+  margin-top: 25px;
+}
+
+.buttons a {
+  display: inline-block;
+  padding: 12px 20px;
+  margin: 5px;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.primary-btn {
+  background-color: #c85ce8;
+  color: white;
+}
+
+.secondary-btn {
+  border: 1px solid #777;
+  color: white;
+}
+
+.social-links {
+  margin-top: 30px;
+}
+
+.social-links a {
+  color: #aaa;
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+.social-links a:hover {
+  color: #c85ce8;
+}
+
+.dummy-section {
+  height: 100vh;
+  padding: 100px;
+  text-align: center;
+  background-color: #0d1019;
+}
+
+.dummy-section h2 {
+  color: #c85ce8;
+}
+.about-content {
+  display: flex;
+  justify-content: center;
+}
+
+.about-text {
+  max-width: 700px;
+}
+
+.about-text h2 {
+  color: white;
+  margin-bottom: 20px;
+}
+
+.about-text p {
+  color: #aaa;
+  line-height: 1.7;
+  margin-bottom: 15px;
+}
+
+.about-info {
+  margin-top: 30px;
+}
+
+.about-info p {
+  margin-bottom: 10px;
+}
+
+.about-info b {
+  color: white;
+}

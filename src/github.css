@@ -1,0 +1,27 @@
+.github {
+  min-height: 60vh;
+  padding: 100px 10%;
+  text-align: center;
+  background-color: #0d1019;
+}
+
+.github h1 {
+  color: #c85ce8;
+  margin-bottom: 20px;
+}
+
+.github p {
+  color: #aaa;
+  margin-bottom: 25px;
+}
+
+.github a {
+  display: inline-block;
+  padding: 12px 20px;
+
+  background-color: #c85ce8;
+  color: white;
+
+  text-decoration: none;
+  border-radius: 5px;
+}

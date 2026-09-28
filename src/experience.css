@@ -1,0 +1,40 @@
+.experience {
+  min-height: 100vh;
+  padding: 100px 10%;
+  background-color: #0d1019;
+}
+
+.experience h1 {
+  text-align: center;
+  color: #c85ce8;
+  margin-bottom: 50px;
+}
+
+.experience-content {
+  display: flex;
+  justify-content: center;
+  gap: 25px;
+  flex-wrap: wrap;
+}
+
+.experience-box {
+  width: 300px;
+  padding: 25px;
+  border: 1px solid #333;
+  border-radius: 8px;
+}
+
+.experience-box h2 {
+  color: white;
+  margin-bottom: 10px;
+}
+
+.experience-box h3 {
+  color: #c85ce8;
+  margin-bottom: 15px;
+}
+
+.experience-box p {
+  color: #aaa;
+  line-height: 1.6;
+}

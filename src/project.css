@@ -1,0 +1,42 @@
+.projects {
+  min-height: 100vh;
+  padding: 100px 10%;
+  background-color: #0d1019;
+}
+
+.projects h1 {
+  text-align: center;
+  color: #c85ce8;
+  margin-bottom: 50px;
+}
+
+.projects-content {
+  display: flex;
+  justify-content: center;
+  gap: 25px;
+  flex-wrap: wrap;
+}
+
+.project {
+  width: 300px;
+  padding: 25px;
+
+  border: 1px solid #333;
+  border-radius: 8px;
+}
+
+.project h2 {
+  color: white;
+  margin-bottom: 15px;
+}
+
+.project p {
+  color: #aaa;
+  line-height: 1.6;
+  margin-bottom: 15px;
+}
+
+.project a {
+  color: #c85ce8;
+  text-decoration: none;
+}

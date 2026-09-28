@@ -1,0 +1,43 @@
+.about {
+  min-height: 100vh;
+  padding: 100px 10%;
+  background-color: #0d1019;
+}
+
+.about h1 {
+  text-align: center;
+  color: #c85ce8;
+  margin-bottom: 50px;
+}
+
+.about-content {
+  display: flex;
+  justify-content: center;
+}
+
+.about-text {
+  max-width: 700px;
+}
+
+.about-text h2 {
+  color: white;
+  margin-bottom: 20px;
+}
+
+.about-text p {
+  color: #aaa;
+  line-height: 1.7;
+  margin-bottom: 15px;
+}
+
+.about-info {
+  margin-top: 30px;
+}
+
+.about-info p {
+  margin-bottom: 10px;
+}
+
+.about-info b {
+  color: white;
+}

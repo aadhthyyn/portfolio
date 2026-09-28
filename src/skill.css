@@ -1,0 +1,32 @@
+.skills {
+  min-height: 100vh;
+  padding: 100px 10%;
+  background-color: #0d1019;
+}
+
+.skills h1 {
+  text-align: center;
+  color: #c85ce8;
+  margin-bottom: 50px;
+}
+
+.skills-content {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.skill {
+  width: 150px;
+  padding: 20px;
+  text-align: center;
+
+  color: white;
+  border: 1px solid #333;
+  border-radius: 8px;
+}
+
+.skill:hover {
+  border-color: #c85ce8;
+}
